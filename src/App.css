@@ -19,7 +19,10 @@
 
 .card {
   border: 1px solid #fff;
+  padding: 1rem 2rem;
+  text-align: start;
 
-  width: 100%;
+  width: 250px;
   height: 500px;
+  overflow: auto;
 }
